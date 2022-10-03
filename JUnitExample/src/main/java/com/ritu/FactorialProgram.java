@@ -16,14 +16,4 @@ public static int printFactorial(float a) throws Exception {
         return c;
     }
 
-    /*
-     * public static void main(String[] args) {
-     * System.out.println("Enter a value : "); Scanner sc = new Scanner(System.in);
-     * int a = sc.nextInt();
-     *
-     * printFactorial(a);
-     *
-     * }
-     */
-
 }
